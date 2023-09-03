@@ -7,7 +7,7 @@ $feedback=$_POST['feedback'];
 $subject="Review mail from Pocket Diary";
 $message="Name : ".$from." Email : ".$address." Feedback : ".$feedback;
 $headers="From : Pocket_Diary";
-mail("rimjhim0107@gmail.com",$subject,$message,$headers);
+mail("gamingbaba728@gamil.com",$subject,$message,$headers);
 ?>
 <script>window.alert("Thank you for your valuable feedback!");</script>
 <?php
@@ -33,7 +33,7 @@ mail("rimjhim0107@gmail.com",$subject,$message,$headers);
 <input type="submit" id="pqpq" name="sub"/>
 </form>
 </div>
-<div id="footer"> No Rights Reserved | Designed & Developed by Anishka</div>
+<div id="footer"> No Rights Reserved | Designed & Developed by Somnath Pati.</div>
 </body>
 <script src="JavaScript\jquery-1.11.3.js"></script>
 <script type="text/javascript" src="JavaScript\indexfile.js"></script>
