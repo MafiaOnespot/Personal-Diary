@@ -1,2 +1,4 @@
 # Personal-Diary
-Website to manage contacts online and discover others
+A website to Efficiently Manage your Contacts Online And Socialize with others
+
+Lets you create your profile and maintain all your contacts online. You may also explore other PocketDiary users to fetch their contact information and ultimately socialize more. Your contacts will not be accessible to others.
